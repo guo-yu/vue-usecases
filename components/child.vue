@@ -1,5 +1,5 @@
 <template>
-  <h3>{{ someprop }}</h3>
+  <h3>{{ someprop.a }}</h3>
 </template>
 
 <script>
